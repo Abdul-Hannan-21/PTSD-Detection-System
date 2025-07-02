@@ -102,7 +102,7 @@ vite.config.ts      # Vite server config
 
 ## 🌟 Team Contribution
 
-* Muhammad Sulman
+* Muhammad Salman
 * Abdul Hannan
 * Abdul Mannan
 
